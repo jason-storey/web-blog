@@ -2,6 +2,19 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-Here is my cool homepage.
+[[Atomic Habits\|Atomic Habits]]
 
-[[Public Note\|Public Note]]
+
+# All Notes
+
+| File                                                              | summary     |
+| ----------------------------------------------------------------- | ----------- |
+| [[Hello world\|Hello world]]                                   | \-          |
+| [[Home\|Home]]                                                 | \-          |
+| [[PRIVATE NOTE HERE\|PRIVATE NOTE HERE]]                       | \-          |
+| [[Public Note\|Public Note]]                                   | \-          |
+| [[Atomic Habits\|Atomic Habits]]                               | \-          |
+| [[James Clear\|James Clear]]                                   | An author   |
+| [[The Long Walk - Stephen King\|The Long Walk - Stephen King]] | a cool book |
+
+{ .block-language-dataview}
